@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.nav-item {
+  margin-right: 10px;
+}
